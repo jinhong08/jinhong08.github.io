@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1da2a31f.css",
+    "main.js": "/static/js/main.c9f1f9a2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/oldman2.png": "/static/media/oldman2.a1673643fa7d9cca25f2.png",
+    "static/media/oldman1.png": "/static/media/oldman1.955bd4789d696d899865.png",
+    "static/media/elderly.jpg": "/static/media/elderly.1adb248e37e98cab2b87.jpg",
+    "static/media/family.jpg": "/static/media/family.0fd88fe1e1ca390c46c6.jpg",
+    "static/media/reviewApp.png": "/static/media/reviewApp.6465aa81048588c8fe82.png",
+    "static/media/aiApp.png": "/static/media/aiApp.264786b82e508a04c68c.png",
+    "static/media/gpsApp.png": "/static/media/gpsApp.b1c11c4804ee13683390.png",
+    "static/media/check2.png": "/static/media/check2.56ca30528b7d4cafd1d3.png",
+    "static/media/student2.jpg": "/static/media/student2.6457bc2fc7534d31c02b.jpg",
+    "static/media/toys.png": "/static/media/toys.1ab5f04a42c08b1d8611.png",
+    "static/media/email.png": "/static/media/email.ed4eda199be9250fc281.png",
+    "static/media/user.png": "/static/media/user.4f5be819843f8b287262.png",
+    "static/media/happy.png": "/static/media/happy.7c3ff20b780f7e2adb0f.png",
+    "static/media/instagram.png": "/static/media/instagram.56d3c2ef9b43e98875c0.png",
+    "static/media/broom.png": "/static/media/broom.31d6a6427d706e83f66b.png",
+    "static/media/car.png": "/static/media/car.4797db54c8f601f647c4.png",
+    "index.html": "/index.html",
+    "main.1da2a31f.css.map": "/static/css/main.1da2a31f.css.map",
+    "main.c9f1f9a2.js.map": "/static/js/main.c9f1f9a2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da2a31f.css",
+    "static/js/main.c9f1f9a2.js"
+  ]
+}
